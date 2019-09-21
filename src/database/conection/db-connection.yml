@@ -1,0 +1,10 @@
+env_development:
+  user: 'dbuserpharma'
+  host: '127.0.0.1'
+  database: 'pharma'
+  password: 'qojahojah11'
+  port: 5432
+
+
+ 
+ 
